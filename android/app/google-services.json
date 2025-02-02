@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13275754081",
+    "project_id": "flutter-sandbox-10-11",
+    "storage_bucket": "flutter-sandbox-10-11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13275754081:android:9102d531b129d1e302c420",
+        "android_client_info": {
+          "package_name": "com.zayasoftware.sandbox10_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZN3-YBAXCdb-7Rdb14o8kBJccd6-A7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
